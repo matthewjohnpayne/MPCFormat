@@ -1,11 +1,11 @@
-# mpc_boilerplate/tests/test_refraction.py
+# mpcformat/tests/test_refraction.py
 # import pytest
 
 # Third-party imports
 import numpy as np
 
 # Import the specific package/module/function we are testing
-from mpc_boilerplate.refraction import snell
+from mpcformat.refraction import snell
 
 
 def test_perpendicular():
