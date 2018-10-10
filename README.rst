@@ -16,7 +16,7 @@ MPCFormat
 
 
 
-MPCFormat contains all the boilerplate you need to create a Python package for the MPC
+MPCFormat handles format-conversions for MPC orbits and observations
 
 
 * Free software: MIT license
